@@ -7,7 +7,7 @@ import {FComponent} from "./FComponent";
 function App() {
   return (
     <>
-      <FComponent/>
+      <ShowList/>
 
     </>
   );
